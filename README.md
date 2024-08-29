@@ -5,7 +5,11 @@
 
 <img width="959" alt="KS1" src="https://github.com/user-attachments/assets/d24a92ab-e5a7-4d6b-949d-cf866ffd27aa">
 
-表身 列表明細 ↓　※輸入條件＋按查詢後，會關聯4個表身【貨款資料】、【出貨資料】、【退貨作業】及【合約紀錄】資料表。
+表身 列表明細 ↓　
+
+※輸入條件＋按查詢後，會關聯4個表身【貨款資料】、【出貨資料】、【退貨作業】及【合約紀錄】資料表。
+
+※列表底下 分頁：避免一次顯示過多資料 和固定每頁筆數
 
 <img width="769" alt="KS2" src="https://github.com/user-attachments/assets/71f4c654-5d58-49c5-bfad-a545169ea017">
 
