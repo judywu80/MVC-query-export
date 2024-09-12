@@ -13,19 +13,24 @@
 
 ※列表底下 分頁：避免一次顯示過多資料 和固定每頁筆數
 
-<img width="769" alt="KS2" src="https://github.com/user-attachments/assets/71f4c654-5d58-49c5-bfad-a545169ea017">  
+<img width="769" alt="KS2" src="https://github.com/user-attachments/assets/fd6f615d-8857-44f4-ae94-0fbcfa818efa">
+
 
 3
 
 表身 列表最後欄　明細連結 ↓　
 
-<img width="793" alt="KS3" src="https://github.com/user-attachments/assets/e63ef810-dc74-40a6-a315-2640857fb406">   
+
+<img width="793" alt="KS3" src="https://github.com/user-attachments/assets/cf5534e2-9184-4a73-abe4-ab0463ba6acc">
+
 
 4
 
 明細內容 ↓　※涵蓋「基本資料」、「貨款資料」、「出貨資料」、「退貨作業」和「合約紀錄」。
 
-<img width="820" alt="KS4" src="https://github.com/user-attachments/assets/d9233604-7e29-44c1-ab6a-4536a5156d1b">
+
+<img width="820" alt="KS4" src="https://github.com/user-attachments/assets/1f27e748-488e-4a6b-bcb5-8e244b1d492d">
+
 
 5
 
@@ -37,12 +42,15 @@
 
 匯出csv檔　結果 ↓　※範例匯出格式為 列表匯出
 
-<img width="959" alt="KS6" src="https://github.com/user-attachments/assets/94515a67-f954-442e-ac96-370f43533d24">
+
+<img width="959" alt="KS6" src="https://github.com/user-attachments/assets/6c4ddb4f-38a6-4707-866d-6219cfc13ce5">
 
 
 7
 
 匯入資料庫內容（筆數） ↓　※另外用程式匯入
 
-<img width="959" alt="KS7" src="https://github.com/user-attachments/assets/f11aa22e-5a20-4c7f-b164-4180354fe299">
+
+<img width="959" alt="KS7" src="https://github.com/user-attachments/assets/aff5cb0b-306c-4bdb-94d7-c84f67d291fe">
+
 
